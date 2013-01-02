@@ -1,0 +1,26 @@
+
+{
+  "name": "nOSCmata",
+  "description": "Node OSC to Firmata",
+  "version": "0.0.1",
+  "homepage": "https://github.com/oierbravo/nOSCmata",
+
+  "repository": {
+    "type": "git", 
+    "url": "git@github.com:oierbravo/nOSCmata.git"
+  },
+  "author": {
+    "name": "Oier Bravo Urtasun", 
+    "url": "", 
+    "email": "oierbravo@gmail.com"
+  },
+  "dependencies": {
+    "omgosc": "*"
+    ,"firmata": "*"
+  },
+  "keywords": [
+    "osc"
+    ,"firmata"
+	,"arduino"
+  ]
+}
